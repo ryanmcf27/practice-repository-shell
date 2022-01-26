@@ -1,8 +1,4 @@
 #shell for practice-repository-shell
-
-from tempfile import TemporaryFile
-
-
 while 1:
     x = input(">>>")
     if x == 'exit':
